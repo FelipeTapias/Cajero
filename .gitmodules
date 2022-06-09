@@ -1,0 +1,9 @@
+[submodule "submodule/module_hash"]
+	path = submodule/module_hash
+	url = https://github.com/FelipeTapias/module_hash
+[submodule "submodule/Calculator"]
+	path = submodule/Calculator
+	url = https://github.com/FelipeTapias/module_hash
+[submodule "submodule/calculadora"]
+	path = submodule/calculadora
+	url = https://github.com/FelipeTapias/module_hash

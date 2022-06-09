@@ -1,0 +1,19 @@
+{
+  "name": "cajero",
+  "version": "1.0.0",
+  "description": "Proyecto que intregra el modulo calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeTapias/Cajero.git"
+  },
+  "author": "Anfeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeTapias/Cajero/issues"
+  },
+  "homepage": "https://github.com/FelipeTapias/Cajero#readme"
+}
